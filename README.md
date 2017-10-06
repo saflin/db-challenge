@@ -1,7 +1,7 @@
 # The Asset Management Digital Challenge
 
 ## Building the application
- On command line, go to project directory and execute 'gradlew build'
+ On command line, go to project directory and execute './gradlew build'
 
 ## Running the application
  Execute './gradlew bootRun' after building the application.
